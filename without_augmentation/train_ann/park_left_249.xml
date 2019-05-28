@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>park_left_249.jpg</filename>
+	<path>/media/furkan/CEEE22A1EE2281B7/DeepLearningDataset/1.egitimDataset/ytü_dataset/park/new/park_left_249.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>park</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>55</ymin>
+			<xmax>336</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

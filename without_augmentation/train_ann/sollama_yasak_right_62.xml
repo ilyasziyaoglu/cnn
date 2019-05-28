@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>sollama_yasak_right_62.jpg</filename>
+	<path>/media/furkan/CEEE22A1EE2281B7/DeepLearningDataset/1.egitimDataset/ytü_dataset/sollama_yasak/new/sollama_yasak_right_62.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sollama_yasak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>99</ymin>
+			<xmax>433</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

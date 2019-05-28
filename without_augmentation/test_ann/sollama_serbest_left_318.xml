@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>sollama_serbest_left_318.jpg</filename>
+	<path>/media/furkan/CEEE22A1EE2281B7/DeepLearningDataset/1.egitimDataset/ytü_dataset/sollama_serbest/new/sollama_serbest_left_318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sollama_serbest</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>95</ymin>
+			<xmax>428</xmax>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

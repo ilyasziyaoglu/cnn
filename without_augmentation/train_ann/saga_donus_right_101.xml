@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>saga_donus_right_101.jpg</filename>
+	<path>/media/furkan/CEEE22A1EE2281B7/DeepLearningDataset/1.egitimDataset/ytü_dataset/saga_donus/new/saga_donus_right_101.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saga_donus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>143</ymin>
+			<xmax>419</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

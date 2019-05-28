@@ -1,0 +1,23 @@
+<annotation>
+    <folder>new</folder>
+    <filename>park2_left1074.jpg</filename>
+    <size>
+        <width>672</width>
+        <height>376</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>park</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>235</xmin>
+            <ymin>117</ymin>
+            <xmax>275</xmax>
+            <ymax>158</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>yol_yapim_right_293.jpg</filename>
+	<path>D:\data\0018\new\yol_yapim_right_293.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yol_yapimi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>26</ymin>
+			<xmax>570</xmax>
+			<ymax>143</ymax>
+		</bndbox>
+	</object>
+</annotation>

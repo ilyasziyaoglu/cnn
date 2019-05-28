@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>yaya_gecidi_left_276.jpg</filename>
+	<path>/media/furkan/CEEE22A1EE2281B7/DeepLearningDataset/1.egitimDataset/ytü_dataset/yaya_gecidi/new/yaya_gecidi_left_276.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yaya_gecidi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>37</ymin>
+			<xmax>573</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

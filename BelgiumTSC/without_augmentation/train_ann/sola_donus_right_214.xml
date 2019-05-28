@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>sola_donus_right_214.jpg</filename>
+	<path>C:\Users\munir\Desktop\DATA\0002\new\sola_donus_right_214.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>672</width>
+		<height>376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sola_donus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>139</ymin>
+			<xmax>439</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>
